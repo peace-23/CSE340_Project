@@ -1,0 +1,12 @@
+{
+  "name": "Build Simple Application",
+  "version": "1.0.0",
+  "description": "This exercise introduced you to the concept of creating an application, providing a basic configuration by altering the package.json file. Then, adding packages for additional functionality. Finally, building an application server, adding directions to it and testing it.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
